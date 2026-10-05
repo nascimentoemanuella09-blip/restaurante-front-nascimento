@@ -32,7 +32,7 @@ export default function Login(){
     }
 
     return(
-        <main className="flex min-h-screen items-center justify-center bg-black">
+        <main className="flex min-h-screen items-center justify-center bg-white">
             <div className="w-full max-w-md rounded-2xl bg-black p-8 shadow-lg">
                 <h1 className="mb-8 text-center font-bold ">Área Administrativa</h1>
             

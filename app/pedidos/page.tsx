@@ -12,7 +12,7 @@ export default function Pedidos() {
 
 
   return (
-    <main className="min-h-screen bg-black-100 flex items-center justify-center p-6">
+    <main className="min-h-screen bg-white flex items-center justify-center p-6">
     
     <div className="w-full max-w-lg bg-black rounded-xl shadow-md p-8 grid grid-cols gap-4">
      
@@ -28,7 +28,7 @@ export default function Pedidos() {
 
       <input type="text"
       placeholder="Digite a descricao..."
-      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm tex-gray-900"
+      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm text-gray-900"
       />
 
       <input type="number"
@@ -38,12 +38,12 @@ export default function Pedidos() {
 
       <input type="text"
       placeholder="Digite a categoria..."
-      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm tex-gray-900"
+      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm text-gray-900"
       />
 
       <input type="text"
       placeholder="O lanche está disponivel?"
-      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm tex-gray-900"
+      className="w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm text-gray-900"
       />
 
       <button 
